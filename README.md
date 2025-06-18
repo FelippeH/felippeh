@@ -6,7 +6,7 @@ Um desenvolvedor web em constante evolução, apaixonado por tecnologia e pela c
 Atualmente, trabalho com JavaScript, TypeScript, React e Python, com projetos que unem experiência, lógica e criatividade.
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipeminasgeraisbrasil@gmail.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
