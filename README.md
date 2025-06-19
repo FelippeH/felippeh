@@ -16,7 +16,7 @@ Atualmente, trabalho com JavaScript, TypeScript, React e Python, com projetos qu
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]("")
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](vercel.com/felipe-stefanos-projects)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/felipe-stefanos-projects)
 </div>
 
 <br>
@@ -39,10 +39,10 @@ Atualmente, trabalho com JavaScript, TypeScript, React e Python, com projetos qu
 
 ## Estatísticas
 
-<div align="center">
+<div>
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelippeH&layout=donut&theme=tokyonight" width="348" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=FelippeH&show_icons=true&theme=tokyonight&hide_rank=true" width="360" />
 </p>
 </div>
