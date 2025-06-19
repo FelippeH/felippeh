@@ -15,7 +15,8 @@ Atualmente, trabalho com JavaScript, TypeScript, React e Python, com projetos qu
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stefano_felipe_/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]("")
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](vercel.com/felipe-stefanos-projects)
 </div>
 
 <br>
@@ -25,6 +26,7 @@ Atualmente, trabalho com JavaScript, TypeScript, React e Python, com projetos qu
 <div>
   <img alt="JavaScript" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
   <img alt="TypeScript" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+  <img alt="CSS" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />    
   <img alt="React JS" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img alt="Next JS" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" />
   <img alt="Python" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -37,7 +39,7 @@ Atualmente, trabalho com JavaScript, TypeScript, React e Python, com projetos qu
 
 ## Estatísticas
 
-<div>
+<div align="center">
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelippeH&layout=donut&theme=tokyonight" width="348" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
