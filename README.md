@@ -41,8 +41,6 @@ Atualmente, trabalho com JavaScript, TypeScript, React e Python, com projetos qu
 
 <div>
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippeh&layout=donut&theme=tokyonight" width="348" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=felippeh&show_icons=true&theme=tokyonight&hide_rank=true&v=3" width="360" />
 </p>
 </div>
