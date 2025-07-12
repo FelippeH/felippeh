@@ -41,7 +41,7 @@ Atualmente, trabalho com JavaScript, TypeScript, React e Python, com projetos qu
 
 <div>
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=felippeh&show_icons=true&theme=tokyonight&hide_rank=true&v=3" width="360" />
+<img src="https://github-readme-stats.vercel.app/api?username=felippeh&show_icons=true&theme=tokyonight&hide_rank=true&v=2" width="360" />
 </p>
   
 ![](https://komarev.com/ghpvc/?username=felippeh)
