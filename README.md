@@ -3,7 +3,6 @@
   
 ### Hello, my name is Felipe 👋 
 Um desenvolvedor web em constante evolução, apaixonado por tecnologia e pela construção de soluções práticas e funcionais.
-Atualmente, trabalho com JavaScript, TypeScript, React e Python, com projetos que unem experiência, lógica e criatividade.
 </div>
 
 <div style="display: inline_block"><br>
