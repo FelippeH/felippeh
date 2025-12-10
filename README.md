@@ -39,13 +39,7 @@ Um desenvolvedor web em constante evolução, apaixonado por tecnologia e pela c
 
 ## Estatísticas
 
-<div>
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=felippeh&show_icons=true&theme=tokyonight&hide_rank=true&v=2" width="360" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=felippeh&layout=compact&theme=tokyonight" width="389" />
-</p>
+
   
 ![](https://komarev.com/ghpvc/?username=felippeh)
-</div>
 </div>
