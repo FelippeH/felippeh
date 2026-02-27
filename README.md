@@ -7,8 +7,6 @@ Um desenvolvedor web em constante evolução, apaixonado por tecnologia e pela c
 
 <div style="display: inline_block"><br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipeminasgeraisbrasil@gmail.com)
-&nbsp;&nbsp;&nbsp;&nbsp;
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-felipe/)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stefano_felipe_/)
@@ -29,7 +27,6 @@ Um desenvolvedor web em constante evolução, apaixonado por tecnologia e pela c
   <img alt="React JS" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img alt="Next JS" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img alt="NodeJS" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" />
-  <img alt="C#" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
   <img alt="Python" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="MySQL" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img alt="PostgreSQL" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
