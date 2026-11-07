@@ -12,8 +12,6 @@ Um desenvolvedor web em constante evolução, apaixonado por tecnologia e pela c
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stefano_felipe_/)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]("")
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/felipe-stefanos-projects)
 </div>
 
 <br>
